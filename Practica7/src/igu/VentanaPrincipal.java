@@ -487,4 +487,6 @@ public class VentanaPrincipal extends JFrame {
 		}
 		return btDigits;
 	}
+	
+	// He cambiado el archivo
 } 
