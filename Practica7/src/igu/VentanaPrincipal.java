@@ -487,5 +487,5 @@ public class VentanaPrincipal extends JFrame {
 		}
 		return btDigits;
 	}
-	//Test
+	//Test  
 } 
